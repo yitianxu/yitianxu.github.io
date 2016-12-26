@@ -1,3 +1,7 @@
 [submodule "jekyll-bootstrap"]
 	path = /jekyll-bootstrap
+<<<<<<< HEAD
 	url = https://github.com/plusjade/jekyll-bootstrap.git
+=======
+	url = https://github.com/plusjade/jekyll-bootstrap.git
+>>>>>>> 814f6f5a0a4a9a1869b77a190d0e1959a725e3a8
