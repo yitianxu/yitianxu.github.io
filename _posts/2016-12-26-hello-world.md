@@ -5,13 +5,7 @@ layout: post
 title: "Hello World"
 description: ""
 category: 
-- Works
-- Tech
-tags: 
-- bootstrap
-- javascript
-- php
-- AngularJS
+tags: []
 ---
 {% include JB/setup %}
 
