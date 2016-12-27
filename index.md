@@ -21,7 +21,7 @@ title: Yitian's World!
 <br />
 
 #### Bio
-> **Bad** **Unreliable** **Easily distracte** <br />
+> **Bad** / **Unreliable** / **Easily distracte** <br />
 > <br />
 > Yitian Xu, made in China, running in York, UK (currently).  
 > Traveling nomad: already explored 7 continents around the world.  <br />
