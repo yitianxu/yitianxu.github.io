@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Yitian's world!
+title: Yitian's World!
 ---
 {% include JB/setup %}
 
-
-## Bio
-__Me ?__
-
+### Me ?
 
 ![alt text][logo]
 
@@ -23,14 +20,14 @@ __Me ?__
 
 <br />
 
+#### Bio
 > **Bad** **Unreliable** **Easily distracte** <br />
 > <br />
-> Yitian Xu, made in China, running in York, UK.currently.  
+> Yitian Xu, made in China, running in York, UK (currently).  
 > Traveling nomad: already explored 7 continents around the world.  <br />
 > Love programming: Progress (8 years+), C (5 years+), Python (2 years+), Javascript, etc <br />
+> Amateur Photpgrapher <br />
 > Foodie. <br />
-> Amateur Photpgrapher
-
 
 
 ----
