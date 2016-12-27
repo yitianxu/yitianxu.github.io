@@ -5,26 +5,30 @@ title: Yitian's world!
 {% include JB/setup %}
 
 
-## Introduction
-
- 
+## Bio
+__Me ?__
+---
 ![alt text][logo]
 
 [logo]: https://github.com/yitianxu/yitianxu.github.io/blob/master/image/self.png?raw=true
 <br />
 
-Author 
-
-|--------|-----------|-----|
-| Name   | Yitian Xu |
+|----------|-----------|-----|
+| Name   | Yitian Xu (Aka. Michael sometimes)| 
 | Email  | yitian.xu@hotmail.com | 
 | Github | yitianxu | 
+| Facebook  | [Yitian Xu](https://www.facebook.com/yitian.xu) |
+| instagram | [@yitianxu](https://www.instagram.com/yitianxu/?hl=en) |
 
 <br />
 
-> My name is Yitian Xu, born in China, currrently live in York, UK.  
-> I am traveling nomand, already explored 7 continents around the world.  <br />
-> Also I have passion to software advocate. 
+> **Bad** **Unreliable** **Easily distracte** <br />
+> Yitian Xu, made in China, running in York, UK.currently.  
+> Traveling nomad: already explored 7 continents around the world.  <br />
+> Love programming: Progress (8 years+), C (5 years+), Python (2 years+), Javascript, etc <br />
+> Foodie. <br />
+> Amateur Photpgrapher
+
 
 
 ----
