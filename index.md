@@ -7,11 +7,10 @@ title: Yitian's world!
 
 ## Introduction
 
-https://github.com/yitianxu/yitianxu.github.io/blob/master/image/self.png
  
 ![alt text][logo]
 
-[logo]: https://github.com/yitianxu/yitianxu.github.io/blob/master/image/self.png
+[logo]: https://github.com/yitianxu/yitianxu.github.io/blob/master/image/self.png?raw=true
 <br />
 
 Author 
