@@ -24,6 +24,7 @@ __Me ?__
 <br />
 
 > **Bad** **Unreliable** **Easily distracte** <br />
+> <br />
 > Yitian Xu, made in China, running in York, UK.currently.  
 > Traveling nomad: already explored 7 continents around the world.  <br />
 > Love programming: Progress (8 years+), C (5 years+), Python (2 years+), Javascript, etc <br />
