@@ -10,7 +10,7 @@ title: Yitian's world!
  
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 
+[logo]: https://github.com/yitianxu/yitianxu.github.io/blob/master/image/self.jpg 
 
 <br />
 
