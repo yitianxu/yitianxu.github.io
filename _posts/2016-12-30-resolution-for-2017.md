@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resolution for 2017"
-description: ""
+description: "Year of Changing"
 category: 
 tags: []
 ---
