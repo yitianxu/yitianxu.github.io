@@ -14,8 +14,8 @@ tags: []
 #### Targets for 2017: 
 
 1. Complete all the [Leetcode](https://leetcode.com/problemset/algorithms/) questions  
-	1.1 Master Python/Node.js/Javascript: **Complete two projects with three languages**
-	1.2 Complete Algorithem course 'bittiger' & 《算法导论》
+	1.1 Master Python/Node.js/Javascript: **Complete two projects with three languages** <br />
+ 	1.2 Complete Algorithem course 'bittiger' & 《算法导论》
 2. Complete AWS professional Solution Architest [Certification](https://acloud.guru/) 
 3. Get Permanent Resident Card 
 4. Apply FLAG jobs (Before Dec.)
