@@ -7,7 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
-## Remember 10 X Rule  
+## 10 X Rule  
+
 ## Think bigger, act faster  
 
 #### Targets for 2017: 
