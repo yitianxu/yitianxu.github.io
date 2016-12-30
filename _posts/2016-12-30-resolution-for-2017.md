@@ -7,7 +7,10 @@ tags: []
 ---
 {% include JB/setup %}
 
-Targets for 2017: 
+## Remember 10 X Rule  
+## Think bigger, act faster  
+
+#### Targets for 2017: 
 
 1. Complete all the [Leetcode](https://leetcode.com/problemset/algorithms/) questions  
 	1.1 Master Python/Node.js/Javascript: **Complete two projects with three languages**
@@ -19,3 +22,5 @@ Targets for 2017:
 6. Complete one Marathon Paris (April)
 7. Lose 5 KG weight (Today: 80.7 KG)
  
+
+ ![logo](https://github.com/yitianxu/yitianxu.github.io/blob/master/image/2016-12-30-3.jpg?raw=tru)
