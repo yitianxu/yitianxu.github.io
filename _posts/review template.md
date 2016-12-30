@@ -9,6 +9,12 @@ comments: true
 
 [Check Targets for 2017 first](https://yitianxu.github.io/2016/12/30/resolution-for-2017)
 
+[Check Monthly Targets](TBD)
+
+[Check Weekly Targets](TBD) 
+
+---
+
 ### Review (日省吾身)
 
 | Daily Questions                   |                                           
