@@ -1,5 +1,5 @@
 ---
-layout: temp
+layout: page
 title: "Life Mission"
 description: ""
 ---
