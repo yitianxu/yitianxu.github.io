@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Life Commission"
+layout: page1
+title: "Life Mission"
 description: ""
 ---
 {% include JB/setup %}
