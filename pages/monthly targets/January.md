@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Monthly Targets"
+description: ""
+---
+{% include JB/setup %}
+
 ### January
 
 ### Personal
