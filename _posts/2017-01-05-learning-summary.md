@@ -34,5 +34,5 @@ tags: []
 2. 人类简史 （速读）
 3. 第三选择 （速读）
 
-1.Linux commnand:  `ls -Rla | sort -nk5`
+1. Linux commnand:  `ls -Rla | sort -nk5`
 2. try toggl (tracking my time)
