@@ -22,7 +22,7 @@ description: ""
 
 1. Project Catapult:<br /> 
 	1.1  Move Track into Jenkins <br />
-	1.2  Utilize existing Raflow TEST environments
-    1.3  Renew all DBs 
-    1.4  Completely kill CVS  
+	1.2  Utilize existing Raflow TEST environments <br />
+    1.3  Renew all DBs  <br />
+    1.4  Completely kill CVS   <br />
 2. Move Project Into Jira 
