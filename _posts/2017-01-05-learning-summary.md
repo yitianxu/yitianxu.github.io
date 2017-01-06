@@ -36,3 +36,5 @@ tags: []
 
 1. Linux commnand:  `ls -Rla | sort -nk5`
 2. try toggl (tracking my time)
+
+1. [Learning Jira](https://www.youtube.com/watch?v=TKymhkMWLWA)
