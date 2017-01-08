@@ -38,3 +38,5 @@ tags: []
 2. try toggl (tracking my time)
 
 1. [Learning Jira](https://www.youtube.com/watch?v=TKymhkMWLWA)
+
+1. [Java Data structure](http://blog.csdn.net/zhangerqing/article/details/8796518)
