@@ -17,8 +17,9 @@ description: ""
 ### Personal 
 1. Get Permanent Resident Application Document Done
 2. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ)
-3. Smart Zillow Week 2 & 3 lesson + hands on practise
-4. [Docker Production Course](https://www.udemy.com/the-docker-for-devops-course-from-development-to-production/learn/v4/overview) {Chapter 1 - 10}
+3. Python Review Lesson 1
+4. Smart Zillow Week 2 & 3 lesson + hands on practise
+5. [Docker Production Course](https://www.udemy.com/the-docker-for-devops-course-from-development-to-production/learn/v4/overview) {Chapter 1 - 10}
 
 
 ### UPM
