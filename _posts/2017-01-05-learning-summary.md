@@ -40,3 +40,6 @@ tags: []
 1. [Learning Jira](https://www.youtube.com/watch?v=TKymhkMWLWA)
 
 1. [Java Data structure](http://blog.csdn.net/zhangerqing/article/details/8796518)
+
+1. [Docker Cheetsheet](https://github.com/wsargent/docker-cheat-sheet)
+2. [windows docker can not open](https://github.com/docker/for-win/issues/208)
