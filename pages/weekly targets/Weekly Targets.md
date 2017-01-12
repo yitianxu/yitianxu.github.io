@@ -28,7 +28,7 @@ description: ""
 1. WR on-site Jenkins site environment setup
 2. Jenkins Test server build up  
 3. Jenkins Instruction documentation
-4. Script migration 
+4. <s>Script migration </s>
 5. Jenkins Go-live Package selection Job 
 6. Jenkins Database refreshing 
 
