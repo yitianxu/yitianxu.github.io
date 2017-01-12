@@ -43,3 +43,9 @@ tags: []
 
 1. [Docker Cheetsheet](https://github.com/wsargent/docker-cheat-sheet)
 2. [windows docker can not open](https://github.com/docker/for-win/issues/208)
+
+1. Progress: It needs to check pf file on the Citrix server 
+> Unable to find host attest.upmraflatac.upm-kymmene.com in file HOSTS or HOSTS file not found in expected location. (5193) 
+2. Progress: adm2/{all the compiled code} need to be copied (one off job)
+3. [Time Complexity](https://en.wikipedia.org/wiki/Time_complexity) <br />
+> [extra link](http://www.cnblogs.com/songQQ/archive/2009/10/20/1587122.html) 
