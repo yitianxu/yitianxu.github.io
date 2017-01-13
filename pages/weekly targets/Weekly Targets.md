@@ -25,7 +25,7 @@ description: ""
 
 ### UPM
 
-1. WR on-site Jenkins site environment setup
+1. <s>WR on-site Jenkins site environment setup</s>
 2. Jenkins Test server build up  
 3. Jenkins Instruction documentation
 4. <s>Script migration </s>

@@ -36,7 +36,7 @@ comments: true
 |:----------------------------------|
 |                                   |
 
-| **What did I done/learnt Toda**| 
+| **What did I done/learnt Today**| 
 |    |
 
 | **Did I exercise Today**|          
