@@ -20,6 +20,7 @@ tags: []
 
 1. Learnt UNX SSH transcation `~/.ssh` directory & `authorized_key` file should have exact access right `700` 
 ```If I grant too powerful access right, UNIX will think the file security may leak and ask me to manually key the password!. ```
+``` ssh -v ``` ssh debugging mode
 
 1. Docker network, data volume mount 
 2. Auto test with Docker - I need to check this later on 
