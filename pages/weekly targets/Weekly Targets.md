@@ -30,7 +30,8 @@ description: ""
 2. Jenkins Instruction documentation
 3. Track start-up script
 4. Jenkins Go-live Package selection Job 
-5. Jenkins Database refreshing  
+5. Jenkins Database refreshing
+6. Jenkin Single DB start up script   
 
 -----
 
@@ -45,11 +46,11 @@ description: ""
 5. 以后一定不要用指导的态度来指出别人的问题，别人来问你时候大部分都已经都知道了答案了，他们只是想来倾诉的。
 
 ### Personal 
-1. Get Permanent Resident Application Document Done
-2. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ)
+1. <s>Get Permanent Resident Application Document Done</s>
+2. <s>[数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ)</s>
 3. Python Review Lesson 1
 4. Smart Zillow Week 2 & 3 lesson + hands on practise
-5. [Docker Production Course](https://www.udemy.com/the-docker-for-devops-course-from-development-to-production/learn/v4/overview) {Chapter 1 - 10}
+5. <s>[Docker Production Course](https://www.udemy.com/the-docker-for-devops-course-from-development-to-production/learn/v4/overview) {Chapter 1 - 10}</s>
 
 
 ### UPM
@@ -59,7 +60,7 @@ description: ""
 3. Jenkins Instruction documentation
 4. <s>Script migration </s>
 5. Jenkins Go-live Package selection Job 
-6. Jenkins Database refreshing 
+6. <s>Jenkins Database refreshing</s>
 
 
 --- 
