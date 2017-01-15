@@ -41,6 +41,7 @@ comments: true
 
 | **Did I exercise Today**|          
 |     |
+| Accumulation day:  of 365   |
 
 | **Did I do meditation Today**|          
 |     |
