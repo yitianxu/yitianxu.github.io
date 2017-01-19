@@ -38,19 +38,14 @@ comments: true
 
 | **What did I done/learnt Today**| 
 |    |
-
 | **Did I exercise Today**|          
 |     |
 | Accumulation day:  of 365   |
-
 | **Did I do meditation Today**|          
 |     |
-
 |**What worried me the most today**|
 |                                |
-
 |**Set three Most important Goals for tomorrow**|
 |                                        |
-
 |**How can I make tomorrow better**|
 |                          |
