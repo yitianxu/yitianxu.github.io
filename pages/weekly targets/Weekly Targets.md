@@ -4,6 +4,36 @@ title: "Weekly"
 description: ""
 ---
 {% include JB/setup %}
+
+## Week4  
+
+### Review (the Lesson from last week)
+
+1. 这周我做的很差的是自己没有把算法的学习目标完成好  
+2. 下周开始每天做计划的时候 我要把周计划看一遍！
+3. 这周比较好的是晚上不玩手机了， 和看韩国综艺了
+4. 我加强对零碎时间的利用 多听冥想的音乐
+5. 我要在2月份之前把算法基础打好，开始涮题
+
+### Personal 
+
+1. Get Permanent Resident Application Document Checking
+2. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ)
+3. Complete 大话数据结构
+4. [Docker Production Course](https://www.udemy.com/the-docker-for-devops-course-from-development-to-production/learn/v4/overview) {Chapter 1 - 10}
+
+### UPM
+
+1. Jenkins Test server build up `create a ticket to HCL`  
+2. <s>Jenkins Instruction documentation</s>
+3. Track start-up script 
+4. Jenkins Go-live Package selection Job 
+5. <s>Jenkins Database refreshing</s>
+6. <s>Jenkin Single DB start up script</s
+
+
+--- 
+
 ## Week3
 
 ### Review (the Lesson from last week)
@@ -19,19 +49,19 @@ description: ""
 ### Personal 
 
 1. Get Permanent Resident Application Document Checking
-2. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ)
+2. <s>[数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ)</s>
 3. Complete 大话数据结构
 4. [Docker Production Course](https://www.udemy.com/the-docker-for-devops-course-from-development-to-production/learn/v4/overview) {Chapter 1 - 10}
 5. Python Revew Lesson 1 
 
 ### UPM
 
-1. Jenkins Test server build up  
-2. Jenkins Instruction documentation
-3. Track start-up script
+1. Jenkins Test server build up `create a ticket to HCL`  
+2. <s>Jenkins Instruction documentation</s>
+3. Track start-up script 
 4. Jenkins Go-live Package selection Job 
-5. Jenkins Database refreshing
-6. Jenkin Single DB start up script   
+5. <s>Jenkins Database refreshing</s>
+6. <s>Jenkin Single DB start up script</s>   
 
 -----
 
