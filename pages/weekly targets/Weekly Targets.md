@@ -5,6 +5,38 @@ description: ""
 ---
 {% include JB/setup %}
 
+## Week 6 
+
+### Personal  
+
+1. Complete Property deposit transferring 
+2. Book my PR appointment 
+3. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
+4. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
+
+### UPM
+
+1. Catapult: 
+	1.1 Track issue updating 
+	1.2 Jenkins EOL issue 
+	1.3 Jenkins test server build up  
+	1.4 EU Jenkins restart 
+	1.5 Track start-up script
+2. 
+
+--- 
+
+## Week 5  
+
+我的回国假期， 这次回国也是有了很多的感触： 
+
+1. 国内同学开始分化，未来我不再会搞同学聚会了 
+2. 多和国外同学交流，开始要交换资源了
+3. 多和父母交流，他们都老了，我没有太多时间和他们在一起了 
+4. 多静心，我身体的问题一定要让自己有充足氧气的地方在工作
+
+--- 
+
 ## Week4  
 
 ### Review (the Lesson from last week)
@@ -24,7 +56,7 @@ description: ""
 
 ### UPM
 
-1. Jenkins Test server build up `create a ticket to HCL`  
+1. <s>Jenkins Test server build up `create a ticket to HCL` </s> 
 2. <s>Jenkins Instruction documentation</s>
 3. Track start-up script 
 4. Jenkins Go-live Package selection Job 

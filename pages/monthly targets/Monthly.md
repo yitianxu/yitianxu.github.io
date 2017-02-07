@@ -21,8 +21,21 @@ description: ""
 ### UPM
 
 1. Project Catapult:<br /> 
-	1.1  Move Track into Jenkins <br />
-	1.2  Utilize existing Raflow TEST environments <br />
-    1.3  Renew all DBs  <br />
-    1.4  Completely kill CVS   <br />
-2. Move Project Into Jira 
+	1.1  <s>Move Track into Jenkins </s> <br />
+	1.2  <s>Utilize existing Raflow TEST environments</s> <br />
+    1.3  <s>Renew all DBs</s>  <br />
+    1.4  <s>Completely kill CVS</s>   <br />
+2. <s>Move Project Into Jira</s>
+
+--- 
+
+### Feburary 
+
+### Personal
+
+1. Submit Permanent Resident Application
+2. Study Java / Algorithm course  
+3. AWS Solution Architect course review: prepare Exam in March
+4. Complete Docker course >  create my own docker image   
+5. Complete Smart Zillow Project  
+6. Complete Python Lesson >  create my own Python project
