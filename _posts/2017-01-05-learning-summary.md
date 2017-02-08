@@ -50,3 +50,7 @@ tags: []
 2. Progress: adm2/{all the compiled code} need to be copied (one off job)
 3. [Time Complexity](https://en.wikipedia.org/wiki/Time_complexity) <br />
 > [extra link](http://www.cnblogs.com/songQQ/archive/2009/10/20/1587122.html) 
+
+1. [git config: set core.autocrlf = `false`](https://git-scm.com/docs/gitattributes) 
+> git set up core.autocrlf = `true` automatically. 
+2. vi: show end of line character -> :set list 
