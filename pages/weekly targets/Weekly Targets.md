@@ -5,9 +5,34 @@ description: ""
 ---
 {% include JB/setup %}
 
-## Week 6 
+## Week 7 
 
 ### Personal  
+
+1. Complete Property deposit transferring 
+2. Book my PR appointment 
+3. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
+4. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
+
+### UPM
+
+1. Catapult: 
+	1.1 Jenkins test server build up  <br /> 
+	1.2 EU Jenkins restart <br />
+	1.3 Track start-up script
+2. 
+
+
+## Week 6 
+
+### Review (the Lesson from last week)
+我这周表现非常差，基本上没有任何progress可言。 
+想想自己又进入从前那个致命的怪圈，不想做拖拉的情况了。
+不要等 直接去上就做 现在的我已经等不起了
+
+
+### Personal  
+
 
 1. Complete Property deposit transferring 
 2. Book my PR appointment 
@@ -28,6 +53,7 @@ description: ""
 
 ## Week 5  
 
+### Review (the Lesson from last week)
 我的回国假期， 这次回国也是有了很多的感触： 
 
 1. 国内同学开始分化，未来我不再会搞同学聚会了 
