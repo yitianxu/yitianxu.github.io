@@ -11,8 +11,9 @@ description: ""
 
 1. Complete Property deposit transferring 
 2. Book my PR appointment 
-3. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
-4. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
+3. Update my PR application form
+4. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
+5. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
 
 ### UPM
 
