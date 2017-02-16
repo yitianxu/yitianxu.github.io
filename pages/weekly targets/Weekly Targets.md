@@ -9,7 +9,7 @@ description: ""
 
 ### Personal  
 
-1. Complete Property deposit transferring 
+1. <s>Complete Property deposit transferring</s> 
 2. Book my PR appointment 
 3. Update my PR application form
 4. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
