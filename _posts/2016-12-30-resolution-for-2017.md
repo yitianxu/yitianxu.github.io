@@ -24,6 +24,7 @@ tags: []
 7. Lose 5 KG weight (Today: 80.7 KG)
 8. Complele reading 15 books this year
 
+[Keep updating](https://yitianxu.github.io/2016/12/30/resolution-for-2017)
 <br />
 
  ![logo](https://github.com/yitianxu/yitianxu.github.io/blob/master/image/2016-12-30-3.jpg?raw=tru)
