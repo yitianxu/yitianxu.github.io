@@ -34,16 +34,16 @@ description: ""
 1. Submit Permanent Resident Application
 2. Study Java / Algorithm course  
 3. AWS Solution Architect course review: prepare Exam in March
-4. Complete Docker course: Prepare docker knowledge sharing 
+4. <s>Complete Docker course: Prepare docker knowledge sharing </s>
 5. Complete Smart Zillow Project  
 6. Complete Python Lesson >  create my own Python project
 
 ### UPM
 
 1. Project Catapult:<br /> 
-	1.1  Track Job issue fixing 
+	1.1  <s>Track Job issue fixing</s> 
 	1.2  Jenkins Test Server update 
     1.3  Renew all DBs  <br />
-    1.4  Fix EOL Jenkins issue   <br />
+    1.4  <s>Fix EOL Jenkins issue</s>   <br />
  	1.5  Feature package update <br />
  	1.6  Local Test environment roll out 

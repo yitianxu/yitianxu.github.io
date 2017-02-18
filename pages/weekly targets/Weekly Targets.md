@@ -5,28 +5,57 @@ description: ""
 ---
 {% include JB/setup %}
 
+
+## Week 8
+
+### Review (the Lesson from last week)
+
+
+### Personal 
+
+1. Update my PR application form
+	1.1 Complete PR application 
+	1.2 Complete all the document preparation 
+2. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
+	2.1 Complete 4 Java Lessons 
+3. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
+	3.1 Complete recording all the lessons 
+
+
+### UPM
+
+1. Go-Live Work Shop <br />
+	1.1 Build up the job for Go-live <br />
+	1.2 Build up the job for DB change <br />
+2. Jenkins test server build up <br />
+	2.1 Monitoring Sam and Don <br />
+3. PPR review 
+4. Incident update 
+5. Jenkins Interface Migration  
+
+---
+
 ## Week 7 
 
 ### Personal  
 
 1. <s>Complete Property deposit transferring</s> 
-2. Book my PR appointment 
-3. Update my PR application form
+2. <s>Book my PR appointment</s> 
+3. <s>Update my PR application form</s>
 4. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
 5. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
 
 ### UPM
 
 1. Catapult: 
-	1.1 Jenkins test server build up  <br /> 
-	1.2 EU Jenkins restart <br />
-	1.3 Track start-up script
-2. 
-
+	1.1 <s>Jenkins test server build up </s>  <br /> 
+	1.2 <s>EU Jenkins restart</s> <br />
+	1.3 <s>Track start-up script</s>
 
 ## Week 6 
 
 ### Review (the Lesson from last week)
+
 我这周表现非常差，基本上没有任何progress可言。 
 想想自己又进入从前那个致命的怪圈，不想做拖拉的情况了。
 不要等 直接去上就做 现在的我已经等不起了
