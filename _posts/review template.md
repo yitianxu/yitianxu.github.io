@@ -28,6 +28,7 @@ comments: true
 
 [Check Weekly Targets](https://yitianxu.github.io/pages/weekly%20targets/Weekly%20Targets) 
 
+[Trello List](https://yitianxu.github.io/2016/12/30/resolution-for-2017)
 ---
 
 ### Review (日省吾身)
