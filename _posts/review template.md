@@ -18,6 +18,16 @@ comments: true
 
 ---
 
+### Do it everyday(日积月累)
+
+|每天3分钟冥想             | 	  |
+|每天5个pushup，5个bupees   |     |
+|每天听5分钟得到新闻      |	  |
+|每天写50字的总结			 |    |
+|每天学习15分钟            |    |
+
+---
+
 ### To Do Later (日后继续) 
 
 
@@ -42,7 +52,6 @@ comments: true
 | Daily Questions                   |                                           
 |:----------------------------------|
 |                                   |
-
 | **What did I done/learnt Today**| 
 |    |
 | **Did I exercise Today**|          
@@ -54,5 +63,5 @@ comments: true
 |                                |
 |**Set three Most important Goals for tomorrow**|
 |                                        |
-|**How can I make tomorrow better**|
+|**How can I make tomorrow better (Action)**|
 |                          |
