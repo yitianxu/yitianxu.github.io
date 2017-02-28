@@ -5,17 +5,50 @@ description: ""
 ---
 {% include JB/setup %}
 
+### Review (the Lesson from last week)
+
+## week 9 
+
+1. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
+	2.1 Complete 4 Java Lessons 
+2. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
+	3.1 Complete recording all the lessons 
+3. Go through Itemax app 
+4. Set up strategy for AWS certifcation 
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Confirm strategy  <br />
+	1.2 Notify the super user <br />
+	1.3 Set up Go live job <br />
+	1.4 DB schema comparing 
+2. Jenkins test server build up <br />
+	2.1 Jenkins Test Server first run <br />
+	2.2 Comparing the old and new server <br />
+	2.3 install progress 11.6.3 
+3. Incident update 
+4. Jenkins Interface Migration 
+5. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+----
 
 ## Week 8
 
 ### Review (the Lesson from last week)
-
+我上周下半段身体不好从波兰回来就有低烧和咳嗽直到现在都没有恢复平时的锻炼。  
+需要要好好的修养。 
+我平时要注意身体，一定不能乱来。 
+不过老大Marko给我挺好的PPR ，下周我要wrap up 所有的琐碎的事情。 
+这周一我的PR通过了，这是一件大事。我终于可以不用烦我签证的事情了。
+我也全力投身到其他事情中去了。　
+AWS 考试 + 刷算法题 + 锻炼 + 创业
 
 ### Personal 
 
-1. Update my PR application form
-	1.1 Complete PR application 
-	1.2 Complete all the document preparation 
+1. <s>Update my PR application form</s>
+	1.1 <s>Complete PR application</s> 
+	1.2 <s>Complete all the document preparation</s> 
 2. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
 	2.1 Complete 4 Java Lessons 
 3. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
@@ -24,14 +57,14 @@ description: ""
 
 ### UPM
 
-1. Go-Live Work Shop <br />
-	1.1 Build up the job for Go-live <br />
-	1.2 Build up the job for DB change <br />
-2. Jenkins test server build up <br />
-	2.1 Monitoring Sam and Don <br />
-3. PPR review 
+1. <s>Go-Live Work Shop </s><br />
+	1.1 <s>Build up the job for Go-live </s><br />
+	1.2 <s>Build up the job for DB change </s><br />
+2. <s>Jenkins test server build up </s> <br />
+	2.1 <s>Monitoring Sam and Don </s><br />
+3. <s>PPR review </s>
 4. Incident update 
-5. Jenkins Interface Migration  
+5. <s>Jenkins Interface Migration </s> 
 
 ---
 
