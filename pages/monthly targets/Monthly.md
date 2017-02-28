@@ -55,7 +55,7 @@ description: ""
 
 ### Personal
 
-1. Study Java / Algorithm course
+1. Study Java / Algorithm course complete
 3. AWS Solution Architect course review: prepare Exam in March
 4. OOD course start
 5. Complete Smart Zillow Project  
