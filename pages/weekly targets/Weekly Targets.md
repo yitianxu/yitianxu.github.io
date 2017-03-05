@@ -7,24 +7,57 @@ description: ""
 
 ### Review (the Lesson from last week)
 
+### Personal  
+
+1. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
+	1.1 Complete 4 Java Lessons 
+2. [OOD基础及面试精讲](https://www.bittiger.io/livecourses/wuvvDHyFFmXTL6HW4/ebook/58a4c9767302571fa60fe8e7/b6c0b168-d47a-4aa2-9bfe-1be3726bb8ea)
+	2.1 Lesson 1 & 2 
+3. Starting for AWS certifcation 
+4. Apply Visa for Parents 
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Communicate with all stakeholder <br />
+	1.2 Set up Go live job <br />
+	1.3 DB schema comparing job step up
+2. Jenkins Interface Migration 	
+3. Jenkins test server build up <br />
+	3.1 <s>Jenkins Test Server first run</s> <br />
+	3.2 Comparing the old and new server <br />
+	3.3 install progress 11.6.3 
+4. Incident update 
+5. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+---
+
+### Review (the Lesson from last week)
+
+这周我的身体依旧处在恢复阶段，不过我在第10周要尽快恢复我的学习的进度。我不能再因为身体的问题再耽误学习的问题
+我有太多的目标要完成，时间太少，一定要抓紧
+下周的目标依然是：
+AWS 考试 + 刷算法题 + 锻炼 + 创业
+
+
 ## week 9 
 
 1. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
-	2.1 Complete 4 Java Lessons 
+	1.1 Complete 4 Java Lessons 
 2. [算法](https://www.bittiger.io/livecourses/2ayp5z2fayaYimAqs)
-	3.1 Complete recording all the lessons 
-3. Go through Itemax app 
+	2.1 <s>Complete recording all the lessons</s> 
+3. <s>Go through Itemax app</s> 
 4. Set up strategy for AWS certifcation 
 
 ### UPM
 
 1. Go-Live Work<br />
-	1.1 Confirm strategy  <br />
+	1.1 <s>Confirm strategy</s>  <br />
 	1.2 Notify the super user <br />
 	1.3 Set up Go live job <br />
-	1.4 DB schema comparing 
+	1.4 <s>DB schema comparing</s> 
 2. Jenkins test server build up <br />
-	2.1 Jenkins Test Server first run <br />
+	2.1 <s>Jenkins Test Server first run</s> <br />
 	2.2 Comparing the old and new server <br />
 	2.3 install progress 11.6.3 
 3. Incident update 
