@@ -21,7 +21,8 @@ description: ""
 1. Go-Live Work<br />
 	1.1 Communicate with all stakeholder <br />
 	1.2 Set up Go live job <br />
-	1.3 DB schema comparing job step up
+	1.3 DB schema comparing job step up <br />
+	1.4 Jenkins copy resource code to Unix box 
 2. Jenkins Interface Migration 	
 3. Jenkins test server build up <br />
 	3.1 <s>Jenkins Test Server first run</s> <br />
