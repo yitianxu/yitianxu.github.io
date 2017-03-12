@@ -14,8 +14,8 @@ description: ""
 1. Prepare for AWS certifcation 
 2. OOD course Recording Done
 
-> AWS Review Strategy: (12-03-2017 -- 20-03-2017)
-> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront  
+> AWS Review Strategy: (13-03-2017 -- 21-03-2017)
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
 > 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
 > 3. AWS - Route53 (Wen)
 > 4. AWS - Databases on AWS (Thursday)
