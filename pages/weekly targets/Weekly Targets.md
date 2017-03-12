@@ -7,26 +7,59 @@ description: ""
 
 ### Review (the Lesson from last week)
 
+## week 10 
+
+### Personal  
+
+1. Prepare for AWS certifcation 
+
+> 
+AWS Review Strategy: (12-03-2017  -- 20-03-2017)
+1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront  
+2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+3. AWS - Route53 (Wen)
+4. AWS - Databases on AWS (Thursday)
+5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+6. AWS - The Well Architected Framework (Next Monday)
+
+2. OOD course Recording Done
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Meeting with Helmes<br />
+2. PAOE architecture workshop 
+3. Jenkins Interface Migration 	
+4. Jenkins test server build up <br />
+	3.1 Migrate jobs from old server to new server <br />
+	3.2 rebuild L221srv510 <br />
+5. Incident update 
+6. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+---
+
+### Review (the Lesson from last week)
+
 ### Personal  
 
 1. [数据结构及JAVA基础](https://www.bittiger.io/livecourses/9jfxfp77uQm5ZTMJJ) 
 	1.1 Complete 4 Java Lessons 
 2. [OOD基础及面试精讲](https://www.bittiger.io/livecourses/wuvvDHyFFmXTL6HW4/ebook/58a4c9767302571fa60fe8e7/b6c0b168-d47a-4aa2-9bfe-1be3726bb8ea)
 	2.1 Lesson 1 & 2 
-3. Starting for AWS certifcation 
-4. Apply Visa for Parents 
+3. <s>Starting for AWS certifcation </s>
+4. <s>Apply Visa for Parents</s> 
 
 ### UPM
 
 1. Go-Live Work<br />
-	1.1 Communicate with all stakeholder <br />
-	1.2 Set up Go live job <br />
-	1.3 DB schema comparing job step up <br />
-	1.4 Jenkins copy resource code to Unix box 
+	1.1 <s>Communicate with all stakeholder </s><br />
+	1.2 <s>Set up Go live job </s><br />
+	1.3 <s>DB schema comparing job step up</s><br />
+	1.4 <s>Jenkins copy resource code to Unix box </s>
 2. Jenkins Interface Migration 	
 3. Jenkins test server build up <br />
 	3.1 <s>Jenkins Test Server first run</s> <br />
-	3.2 Comparing the old and new server <br />
+	3.2 <s>Comparing the old and new server</s> <br />
 	3.3 install progress 11.6.3 
 4. Incident update 
 5. Start to organise Application Architecture (TOGAP 27/03/2017)  
