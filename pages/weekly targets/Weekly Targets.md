@@ -12,6 +12,7 @@ description: ""
 ### Personal  
 
 1. Prepare for AWS certifcation 
+2. OOD course Recording Done
 
 > AWS Review Strategy: (12-03-2017 -- 20-03-2017)
 > 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront  
@@ -21,7 +22,7 @@ description: ""
 > 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
 > 6. AWS - The Well Architected Framework (Next Monday)
 
-2. OOD course Recording Done
+
 
 ### UPM
 
