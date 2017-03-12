@@ -12,7 +12,6 @@ description: ""
 ### Personal  
 
 1. Prepare for AWS certifcation 
-
 > 
 AWS Review Strategy: (12-03-2017  -- 20-03-2017)
 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront  
