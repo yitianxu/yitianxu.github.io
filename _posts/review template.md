@@ -50,19 +50,25 @@ comments: true
 
 ### Review (日省吾身)
 
-| Daily Questions                   |                                           
-|:----------------------------------|
-|                                   |
+| Daily Questions                                    |                                           
+|:---------------------------------------------------|
+|                                                    |
 | **What did I done/learnt Today**| 
-|    |
+|Be Proactive                                   |    |
+|Begin with the End in Mind                     |    |
+|Put First Things First                         |    |
+|Think Win-Win                                  |    |
+|Seek First to Understand, Then to be Understood|    |
+|Synergize                                      |    |
 | **Did I exercise Today(go to Gym)**|          
 |     |
-| Accumulation day:  of 365   |
+| Accumulation day: 31 of 365   |
 | **Did I do meditation Today(15 mins +)**|          
 |     |
 |**What worried me the most today**|
-|                                |
+|      |
 |**Set three Most important Goals for tomorrow**|
-|                                        |
+|      |
+|      |
 |**How can I make tomorrow better (Action)**|
 |                          |
