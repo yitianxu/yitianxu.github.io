@@ -5,7 +5,45 @@ description: ""
 ---
 {% include JB/setup %}
 
+
 ### Review (the Lesson from last week)
+
+## week 11 
+
+### Personal  
+
+1. Prepare for AWS certifcation 
+2. Terraform Study
+2. OOD course Recording Done
+
+> AWS Review Strategy: (20-03-2017 -- 27-03-2017)
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
+> 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+> 3. AWS - Route53 (Wen)
+> 4. AWS - Databases on AWS (Thursday)
+> 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+> 6. AWS - The Well Architected Framework (Next Monday)
+
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Compilation & Roll back job job
+2. Bitbucket application inquiry
+3. Jenkins Interface Migration 	
+4. Jenkins test server build up <br />
+	4.1 rebuild L221srv510 <br />
+5. Incident update 
+6. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+----
+
+### Review (the Lesson from last week)
+上周主要是出差，但是很多好消息是自从我改了我的profile，有很多job agencies来找我。
+这是好的事情，我要借着找工作的东风好好的吧我在AWS上的基础知识重新的补一下。这点非常重要。
+而且我需要把terraform的工具的知识好好学起来。
+这周别忙其他了。好好的学习新的知识。 
+
 
 ## week 10 
 
@@ -27,11 +65,11 @@ description: ""
 ### UPM
 
 1. Go-Live Work<br />
-	1.1 Meeting with Helmes<br />
-2. PAOE architecture workshop 
+	1.1 <s>Meeting with Helmes</s><br />
+2. <s>PAOE architecture workshop</s>
 3. Jenkins Interface Migration 	
 4. Jenkins test server build up <br />
-	3.1 Migrate jobs from old server to new server <br />
+	3.1 <s>Migrate jobs from old server to new server</s><br />
 	3.2 rebuild L221srv510 <br />
 5. Incident update 
 6. Start to organise Application Architecture (TOGAP 27/03/2017)  
