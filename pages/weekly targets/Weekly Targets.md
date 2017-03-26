@@ -8,8 +8,46 @@ description: ""
 
 ### Review (the Lesson from last week)
 
-## week 11 
+## week 12 
 
+1. Prepare for AWS certifcation 
+2. Terraform Study
+3. Docker Review  
+4. DynamoDB Study  
+5. Serverless / Lambda review 
+6. OOD course Recording Done
+
+
+> AWS Review Strategy: (26-03-2017 -- 03-04-2017)
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
+> 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+> 3. AWS - Route53 (Wen)
+> 4. AWS - Databases on AWS (Thursday)
+> 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+> 6. AWS - The Well Architected Framework (Next Monday)
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Compilation & Roll back job job
+2. Jenkins Interface Migration 	
+3. Jenkins test server build up <br />
+	3.1 rebuild L221srv510 <br />
+4. Incident update 
+5. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+--- 
+
+### Review (the Lesson from last week)
+
+本周我的学习方向主要是在serverless framework 和 terraform。 
+AWS的学习我决定要穿插在DevOps的技术栈学习之中。
+而且我决定在日后的学习中，每天的学习成果必须写成技术文档。这样可以通过一遍有一遍不同复习来熟悉知识。
+记住 慢慢来比较快。
+还有我一定要每天记住锻炼，我现在的身体一旦缺乏锻炼就想睡觉，一定要把时间用在主要的方向上！！
+
+## week 11 
+ 
 ### Personal  
 
 1. Prepare for AWS certifcation 
@@ -29,8 +67,8 @@ description: ""
 
 1. Go-Live Work<br />
 	1.1 Compilation & Roll back job job
-2. Bitbucket application inquiry
-3. Jenkins Interface Migration 	
+2. <s>Bitbucket application inquiry</s>
+3. <s>Jenkins Interface Migration</s> 	
 4. Jenkins test server build up <br />
 	4.1 rebuild L221srv510 <br />
 5. Incident update 
