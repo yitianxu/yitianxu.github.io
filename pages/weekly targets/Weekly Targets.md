@@ -5,17 +5,56 @@ description: ""
 ---
 {% include JB/setup %}
 
+### Review (the Lesson from last week)
+
+## week 13 
+
+### Personal  
+
+1. Prepare for AWS certifcation 
+2. DynamoDB Study  
+3. Terraform Study
+4. Docker Review  
+5. Serverless / Lambda review 
+
+> AWS Review Strategy: (03-04-2017 -- 10-04-2017)
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
+> 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+> 3. AWS - Route53 (Wen)
+> 4. AWS - Databases on AWS (Thursday)
+> 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+> 6. AWS - The Well Architected Framework (Next Monday)
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Compilation & Roll back job job
+2. Jenkins Interface Migration 	
+3. Jenkins test server build up <br />
+	3.1 rebuild L221srv510 <br />
+4. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+--- 
 
 ### Review (the Lesson from last week)
 
+上周我学到了我如果在DevOps道路上，应该努力的方向。 
+1. AWS 云服务  
+2. Linux Adaministration  
+3. Puppet / Terraform 
+这些都是我急需要提高的方向。 
+现在我不能着急，只能认认真真的赶上去。 每周完成一门course， 将自己的技能在上半年之前都点上
+
 ## week 12 
+
+### Personal  
 
 1. Prepare for AWS certifcation 
 2. Terraform Study
 3. Docker Review  
 4. DynamoDB Study  
 5. Serverless / Lambda review 
-6. OOD course Recording Done
+6. <s>OOD course Recording Done</s>
 
 
 > AWS Review Strategy: (26-03-2017 -- 03-04-2017)

@@ -64,9 +64,31 @@ description: ""
 ### UPM
 
 1. Project Catapult:<br /> 
-	1.1  Go-live strategy confirmation 
-	1.2  Jenkins Test Server update   <br />
-    1.3  Renew all DBs  <br />
+	1.1  <s>Go-live strategy confirmation </s>
+	1.2  <s>Jenkins Test Server update</s>    <br />
+    1.3  <s>Renew all DBs </s> <br />
  	1.4  Local Test environment roll out <br /> 
- 	1.5  Fix the hanging problem 
- 	1.6  
+ 	1.5  <s>Fix the hanging problem </s>
+
+--- 
+
+### April 
+
+### Personal
+
+1. AWS Solution Architect course review: prepare Exam in April
+2. Python/Linunx script review 
+3. Docker/Lambda review  
+4. Terraform studying 
+5. DynamoDB studying
+6. Puppet Studying 
+7. AWS Developer course studying   
+
+### UPM
+
+1. Project Catapult:<br /> 
+ 	1.1  Local Test environment roll out <br /> 
+ 	1.2  Rollback job completed <br />
+ 	1.3  BitBucket integration <br />
+ 	1.4  AM Jenkins server upgrading <br />
+ 	1.5  Go live pilot <br />
