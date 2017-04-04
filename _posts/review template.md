@@ -54,12 +54,6 @@ comments: true
 |                                                    |
 | **What did I done/learnt Today**| 
 |                                                    |
-|Be Proactive                                   |    |
-|Begin with the End in Mind                     |    |
-|Put First Things First                         |    |
-|Think Win-Win                                  |    |
-|Seek First to Understand, Then to be Understood|    |
-|Synergize                                      |    |
 | **Did I exercise Today(go to Gym)**|          
 |     |
 | Accumulation day: 31 of 365   |

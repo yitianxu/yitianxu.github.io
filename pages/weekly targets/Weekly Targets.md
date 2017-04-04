@@ -7,6 +7,14 @@ description: ""
 
 ### Review (the Lesson from last week)
 
+|Be Proactive                                   |    |
+|Begin with the End in Mind                     |    |
+|Put First Things First                         |    |
+|Think Win-Win                                  |    |
+|Seek First to Understand, Then to be Understood|    |
+|Synergize                                      |    |
+
+
 ## week 13 
 
 ### Personal  
