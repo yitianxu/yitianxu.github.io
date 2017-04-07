@@ -56,7 +56,7 @@ comments: true
 |                                                    |
 | **Did I exercise Today(go to Gym)**|          
 |     |
-| Accumulation day: 31 of 365   |
+| Accumulation day: 43 of 365   |
 | **Did I do meditation Today(15 mins +)**|          
 |     |
 |**What worried me the most today**|
