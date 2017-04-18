@@ -65,7 +65,7 @@ description: ""
 
 ### Review (the Lesson from last week)
 
-
+N/A (forgot to update)
 
 |Be Proactive                                   |    |
 |Begin with the End in Mind                     |    |
