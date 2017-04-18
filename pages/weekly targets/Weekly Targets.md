@@ -5,7 +5,67 @@ description: ""
 ---
 {% include JB/setup %}
 
+
 ### Review (the Lesson from last week)
+
+我没有在上周做计划，感觉对自己的前途和计划有点混乱
+主要是上周之后，老大讲了要把我调去芬兰做云架构师，这点让我和开心。我需要这样的机会来拓展自己。
+但是我依旧在再现在需要好好努力，让我的事业进一步的推动。
+我发觉现在现在的自己有点回到过去的样子了。
+每天一定要做计划，向前走。好好珍惜每一天的时间和机会。
+经过锻炼，我的presetation的能力已经有了很大的提高。接下来是提高我的technical stack的能力了。 
+
+|Be Proactive                                   |    |
+|Begin with the End in Mind                     |    |
+|Put First Things First                         |    |
+|Think Win-Win                                  |    |
+|Seek First to Understand, Then to be Understood|    |
+|Synergize                                      |    |
+
+## week 15 
+
+### Personal 
+
+1. Prepare for AWS certifcation 
+
+> AWS Review Strategy: (18-04-2017 -- 28-04-2017)
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
+> 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+> 3. AWS - Route53 (Wen)
+> 4. AWS - Databases on AWS (Thursday)
+> 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+> 6. AWS - The Well Architected Framework (Next Monday)
+
+2. Python studying
+3. DynamoDB Study  
+4. Serverless / Lambda review 
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Compilation & Roll back job job
+2. Jenkins test server build up <br />
+	2.1 rebuild L221srv510 <br />
+3. Update DB restore job
+4. Start to organise Application Architecture (TOGAP 27/03/2017)  
+5. Move Citrix Test icon to Sandbox 
+6. Update Cheatsheet (Git)
+
+---
+
+### Review (the Lesson from last week)
+
+## week 14 
+
+### Personal 
+
+### UPM
+
+---
+
+### Review (the Lesson from last week)
+
+
 
 |Be Proactive                                   |    |
 |Begin with the End in Mind                     |    |
