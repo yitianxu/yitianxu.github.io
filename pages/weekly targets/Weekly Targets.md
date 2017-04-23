@@ -5,6 +5,55 @@ description: ""
 ---
 {% include JB/setup %}
 
+### Review (the Lesson from last week) 
+本周我的工作积极性重新在恢复，我总是有一个毛病喜欢等一些事情来整点开始，
+很多时间就浪费在过量的等待之中，永远需要一个Just Do It 的沙漏来激励自己。
+人生苦短，不能用等待来蹉跎。
+还有一定要认知到自己处在一定“混乱”的时代，你所能接受的就是承认这种混乱，让自己变得有调理起来。
+千万不要等一个完美的开始，有自己的routine就开始做吧。 
+还有少他妈的去看台湾的政经节目 我现在还统一不了这帮傻子 
+少做无意义的聊天 都都是他妈的浪费时间 
+每天有时间就多入入定 和写写东西 
+
+|Be Proactive                                   | 我没有把最重要的事情想清楚 不是工作优先而自己的事业优先    |
+|Begin with the End in Mind                     | yes 我开始规划我们的team 的 road map了  |
+|Put First Things First                         | 我没有把最重要的事情想清楚 不是工作优先而自己的事业优先   |
+|Think Win-Win                                  |    |
+|Seek First to Understand, Then to be Understood|    |
+|Synergize                                      |    |
+
+## week 16
+
+### Personal 
+
+1. Prepare for AWS certifcation 
+2. Python studying
+3. DynamoDB Study  
+4. Serverless / Lambda review 
+
+> AWS Review Strategy: (24-04-2017 -- 30-04-2017)
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
+> 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+> 3. AWS - Route53 (Wen)
+> 4. AWS - Databases on AWS (Thursday)
+> 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+> 6. AWS - The Well Architected Framework (Next Monday)
+
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Compilation & Roll back job  <br />
+	1.2 DB stop & restart chain testing 
+2. Jenkins test server build up <br />
+	2.1 Install Progress 11.7 on L221srv510 <br />
+	2.2 Install Lastest Jenkins/ PCT on L221srv510 <br />
+3. Update Cheatsheet (Git)
+4. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+
+--- 
+
 
 ### Review (the Lesson from last week)
 
@@ -43,12 +92,12 @@ description: ""
 ### UPM
 
 1. Go-Live Work<br />
-	1.1 Compilation & Roll back job job
+	1.1 <s>Compilation </s> & Roll back job job
 2. Jenkins test server build up <br />
-	2.1 rebuild L221srv510 <br />
-3. Update DB restore job
+	2.1 <s>rebuild L221srv510 <br /> </s>
+3. <s>Update DB restore job</s>
 4. Start to organise Application Architecture (TOGAP 27/03/2017)  
-5. Move Citrix Test icon to Sandbox 
+5. <s>Move Citrix Test icon to Sandbox</s> 
 6. Update Cheatsheet (Git)
 
 ---
