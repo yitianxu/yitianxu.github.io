@@ -54,3 +54,6 @@ tags: []
 1. [git config: set core.autocrlf = `false`](https://git-scm.com/docs/gitattributes) 
 > git set up core.autocrlf = `true` automatically. 
 2. vi: show end of line character -> :set list 
+
+1. du -k | sed -e 's_^\([0-9]*\)_\1 KB_' | sort -n 
+> diretory size in UNIX
