@@ -23,7 +23,6 @@ description: ""
 |Seek First to Understand, Then to be Understood|    |
 |Synergize                                      | i should not critise others   |
 
-### Personal 
 
 ### Personal 
 
