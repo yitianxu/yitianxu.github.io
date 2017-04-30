@@ -5,6 +5,54 @@ description: ""
 ---
 {% include JB/setup %}
 
+## week 17
+
+这一周比上一周的效率好了很多，每天都有去健身房，外加除了星期四和昨天（因为路上来回有点累了）都完成了学习计划。
+而且我又开始了晚上的静坐和冥想 把这些东西都加回到自己每天的routine里来。
+唯一只有不好是自己要一定要坚持。每到晚上，白天一天工作结束了，就有不想开工了。
+这是非常不好的
+要花上5分钟静坐一下，把自己reset好。每天的学习是和上班同等重要的。
+
+
+### Review (the Lesson from last week) 
+
+|Be Proactive                                   | Study Python   |
+|Begin with the End in Mind                     | I followed the road map  |
+|Put First Things First                         | At least I try to priortise my study / work life now   |
+|Think Win-Win                                  |    |
+|Seek First to Understand, Then to be Understood|    |
+|Synergize                                      | i should not critise others   |
+
+### Personal 
+
+### Personal 
+
+1. Prepare for AWS certifcation 
+2. DynamoDB Study  
+3. Python studying
+4. Serverless / Lambda review 
+
+> AWS Review Strategy: (24-04-2017 -- 30-04-2017)
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
+> 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+> 3. AWS - Route53 (Wen)
+> 4. AWS - Databases on AWS (Thursday)
+> 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+> 6. AWS - The Well Architected Framework (Next Monday)
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Go live pipeline testing <br />
+	1.2 Rollback job creation <br />
+2. Jenkins test server build up <br /> 
+	2.1 Install Progress 11.7 on L221srv510 <br />
+	2.2 Install Lastest Jenkins/ PCT on L221srv510 <br />
+3. Git training 
+4. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+---
+
 ### Review (the Lesson from last week) 
 本周我的工作积极性重新在恢复，我总是有一个毛病喜欢等一些事情来整点开始，
 很多时间就浪费在过量的等待之中，永远需要一个Just Do It 的沙漏来激励自己。
@@ -27,7 +75,7 @@ description: ""
 ### Personal 
 
 1. Prepare for AWS certifcation 
-2. Python studying
+2. <s>Python studying</s>
 3. DynamoDB Study  
 4. Serverless / Lambda review 
 
@@ -44,11 +92,11 @@ description: ""
 
 1. Go-Live Work<br />
 	1.1 Compilation & Roll back job  <br />
-	1.2 DB stop & restart chain testing 
-2. Jenkins test server build up <br />
+	1.2 <s>DB stop & restart chain testing</s> 
+2. Jenkins test server build up ** Planned next week** <br /> 
 	2.1 Install Progress 11.7 on L221srv510 <br />
 	2.2 Install Lastest Jenkins/ PCT on L221srv510 <br />
-3. Update Cheatsheet (Git)
+3. <s>Update Cheatsheet (Jenkins) </s>
 4. Start to organise Application Architecture (TOGAP 27/03/2017)  
 
 

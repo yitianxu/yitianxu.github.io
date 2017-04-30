@@ -77,7 +77,7 @@ description: ""
 ### Personal
 
 1. AWS Solution Architect course review: prepare Exam in April
-2. Python/Linunx script review 
+2. <s>Python/Linunx script review </s>
 3. Docker/Lambda review  
 4. Terraform studying 
 5. DynamoDB studying
@@ -87,8 +87,30 @@ description: ""
 ### UPM
 
 1. Project Catapult:<br /> 
- 	1.1  Local Test environment roll out <br /> 
+ 	1.1  <s>Local Test environment roll out</s> <br /> 
  	1.2  Rollback job completed <br />
  	1.3  BitBucket integration <br />
  	1.4  AM Jenkins server upgrading <br />
- 	1.5  Go live pilot <br />
+ 	1.5  <s>Go live pilot </s> <br />
+
+--- 
+
+### May 
+
+### Personal
+
+1. AWS Solution Architect course review: prepare Exam in May
+2. Python/Linunx script review
+3. Docker/Lambda review  
+4. Terraform studying 
+5. DynamoDB studying
+6. Puppet Studying 
+7. AWS Developer course studying   
+
+### UPM
+
+1. Project Catapult:<br /> 
+ 	1.1  Go live pipeline pilot <br />
+ 	1.2  Rollback job completed <br />
+ 	1.3  BitBucket integration <br />
+ 	1.4  AM Jenkins server upgrading <br />
