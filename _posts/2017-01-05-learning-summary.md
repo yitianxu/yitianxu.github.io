@@ -57,3 +57,5 @@ tags: []
 
 1. du -k | sed -e 's_^\([0-9]*\)_\1 KB_' | sort -n 
 > diretory size in UNIX
+
+[Restful introduction](http://www.infoq.com/cn/articles/rest-introduction) 
