@@ -5,6 +5,49 @@ description: ""
 ---
 {% include JB/setup %}
 
+## week 18
+
+上周的自己的状态不是很好 一直在想其他的事情 从星期三开始也没有做计划
+我不能这样子下去
+一定要纠正过来！！ 
+
+
+### Personal 
+
+1. Prepare for AWS certifcation 
+2. Python studying
+3. Serverless / Lambda review 
+
+> AWS Review Strategy: (24-04-2017 -- 30-04-2017)
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
+> 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+> 3. AWS - Route53 (Wen)
+> 4. AWS - Databases on AWS (Thursday)
+> 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+> 6. AWS - The Well Architected Framework (Next Monday)
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Go live pipeline testing <br />
+	1.2 Rollback job creation <br />
+2. Jenkins test server build up <br /> 
+	2.1 Install Progress 11.7 on L221srv510 <br />
+	2.2 Install Lastest Jenkins/ PCT on L221srv510 <br />
+3. Git training Preparation
+4. Start to organise Application Architecture (TOGAP 27/03/2017)  
+
+### Review (the Lesson from last week) 
+
+|Be Proactive                                   |  |
+|Begin with the End in Mind                     |  |
+|Put First Things First                         |  |
+|Think Win-Win                                  |    |
+|Seek First to Understand, Then to be Understood|    |
+|Synergize                                      |    |
+
+---
+
 ## week 17
 
 这一周比上一周的效率好了很多，每天都有去健身房，外加除了星期四和昨天（因为路上来回有点累了）都完成了学习计划。
