@@ -5,6 +5,51 @@ description: ""
 ---
 {% include JB/setup %}
 
+## week 22 
+
+上上周有了一些收获： 
+1. 做事情一定要professional。 这一点特别要想Marko学习， 全心全意去做事情。 但是不能着急。 
+2. 做事情不能assume, 因为我发现每当自己害怕一些事情要发生的时候，就会把头埋进沙里面。这是不行的，问题依然还在那里，一定要勇敢的去面对不能逃避。
+这样只能回让问题越来越大。 一定不能怕麻烦，直面困难，人生的成长在与和困难旅程的揉搓。
+
+上周去了趟加拿大。  
+和爸妈在一起过一个不错的假期。 
+突然想起，做事情一定不能让自己太舒服，这是很要命的。  
+
+
+### Personal 
+1. Prepare for AWS certifcation 
+2. Serverless / Lambda review 
+
+> AWS Review Strategy: 
+> 1. AWS - 10,000 Feet Overview & AWS Object Storage and CDN - S3, Glacier and CloudFront (Monday - Tuesday) 
+> 2. AWS - EC2 - The Backbone of AWS (Monday - Tuesday)
+> 3. AWS - Route53 (Wen)
+> 4. AWS - Databases on AWS (Thursday)
+> 5. AWS - VPC  & Application Services Kinesis (Friday - Saturday - Sunday)
+> 6. AWS - The Well Architected Framework (Next Monday)
+
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Rafgo Go live pipeline testing <br />
+	1.2 Rollback job creation <br />
+2. Pull request + user demo
+3. Travel to Tampere
+
+### Review (the Lesson from last week) 
+
+|Be Proactive                                   |  |
+|Begin with the End in Mind                     |  |
+|Put First Things First                         |  |
+|Think Win-Win                                  |    |
+|Seek First to Understand, Then to be Understood|    |
+|Synergize                                      |    |
+
+
+---
+
 ## week 18
 
 上周的自己的状态不是很好 一直在想其他的事情 从星期三开始也没有做计划

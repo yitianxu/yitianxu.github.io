@@ -110,7 +110,26 @@ description: ""
 ### UPM
 
 1. Project Catapult:<br /> 
- 	1.1  Go live pipeline pilot <br />
- 	1.2  Rollback job completed <br />
- 	1.3  BitBucket integration <br />
- 	1.4  AM Jenkins server upgrading <br />
+ 	1.1  <s>Go live pipeline pilot</s><br />
+ 	1.2  <s>Rollback job completed</s><br />
+ 	1.3  <s>BitBucket integration</s><br />
+ 	1.4  <s>AM Jenkins server upgrading</s><br />
+
+ 	--- 
+
+### June
+
+### Personal
+
+1. AWS Solution Architect course review: prepare Exam in May
+2. Python/Linunx script review
+3. Docker/Lambda review  
+4. DynamoDB studying
+5. Puppet Studying 
+
+### UPM
+
+1. Project Catapult:<br /> 
+ 	1.1  Go live pipeline implement<br />
+ 	1.2  Close down RTP tool<br />
+ 	1.3  Fix issue in Scrambling script</<br />
