@@ -4,6 +4,38 @@ title: "Weekly"
 description: ""
 ---
 {% include JB/setup %}
+## week 26 
+上上周在古巴呆了一周，时间过的真快。 
+上周回来把我的一些的工作给重新catch up了。 发现自己突然，对学习很没有劲头，可能是因为自己离开学习的状态时间太久的缘故，这样很不好。
+回来自己一直就懒懒散散的，我需要把自己的动力重新找回来。
+现在自己有了两样很重要的目标，一个就是把我的catapult给尽快结束掉，还有就是把我的itemax的项目马上开始。 
+这样子规定每天，自己catapult从7：00 - 17：30,然后其他时间分配给itemax。 
+
+在catapult上一定要专注自己的方向。
+
+
+### Personal 
+1. Itemax API creation
+2. Serverless / Lambda review 
+
+
+### UPM
+
+1. Go-Live Work<br />
+	1.1 Rafgo Go live pipeline testing on EU rafgo live
+	1.2 Raflow Go live pipeline testing on SC raflow live
+2. Pull request + user demo
+
+
+### Review (the Lesson from last week) 
+
+|Be Proactive                                   |  |
+|Begin with the End in Mind                     |  |
+|Put First Things First                         |  |
+|Think Win-Win                                  |    |
+|Seek First to Understand, Then to be Understood|    |
+|Synergize                                      |    |
+
 
 ## week 22 
 
