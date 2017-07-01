@@ -115,7 +115,7 @@ description: ""
  	1.3  <s>BitBucket integration</s><br />
  	1.4  <s>AM Jenkins server upgrading</s><br />
 
- 	--- 
+ --- 
 
 ### June
 
@@ -126,6 +126,25 @@ description: ""
 3. Docker/Lambda review  
 4. DynamoDB studying
 5. Puppet Studying 
+
+### UPM
+
+1. Project Catapult:<br /> 
+ 	1.1  Go live pipeline implement<br />
+ 	1.2  Close down RTP tool<br />
+ 	1.3  Fix issue in Scrambling script</<br />
+
+
+---
+
+### July
+
+### Personal
+
+1. AWS Solution Architect course review: prepare Exam in Auguest
+2. Blockchain studying 
+3. Python/Linunx script review
+4. Docker/Lambda review  
 
 ### UPM
 
