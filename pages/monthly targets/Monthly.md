@@ -142,13 +142,33 @@ description: ""
 ### Personal
 
 1. AWS Solution Architect course review: prepare Exam in Auguest
-2. Blockchain studying 
+2. <s>Blockchain studying</s> 
 3. Python/Linunx script review
 4. Docker/Lambda review  
 
 ### UPM
 
 1. Project Catapult:<br /> 
- 	1.1  Go live pipeline implement<br />
+ 	1.1  <s>Go live pipeline implement </s><br />
  	1.2  Close down RTP tool<br />
- 	1.3  Fix issue in Scrambling script</<br />
+ 	1.3  <s>Fix issue in Scrambling script</s></<br />
+
+
+---
+
+### Augest
+
+### Personal
+
+1. AWS Solution Architect course review: prepare Exam in Auguest
+2. Blockchain review 
+3. Python/Linunx script review
+4. Docker/Lambda review  
+
+### UPM
+
+1. Project Catapult:<br /> 
+ 	1.1  Jenkins Roll-out for WR/AP/WW/NW sites <br />
+ 	1.2  Jenkins hand-over <br />
+ 	1.3  Jenkins OE 11.7 testing <br />
+ 	1.4  Jenkins pilot for Track <br />
